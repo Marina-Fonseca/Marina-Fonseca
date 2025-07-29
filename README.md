@@ -6,3 +6,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=flat&logo=Javascript) 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) 
 ![N8N](https://img.shields.io/badge/-N8N-000?style=flat&logo=N8N) 
+
+### Projects: 
+
+
