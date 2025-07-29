@@ -8,5 +8,5 @@
 ![N8N](https://img.shields.io/badge/-N8N-000?style=flat&logo=N8N) 
 
 ### Projects: 
-
+Right now, I'm working on developing a memory game to master the fundamentals of HTML, CSS, and pure JavaScript without relying on any framework. Learn more about the project: [Memory](https://github.com/Marina-Fonseca/Memory)
 
